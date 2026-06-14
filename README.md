@@ -1,3 +1,6 @@
+## Watch me do the lab HERE
+https://www.loom.com/share/0a0b551f19264750b3d9c7ed1e8f84f0
+
 # 🏢 Lab — Active Directory: Identity & Access Management
 **Windows Server 2025 · Azure Free Account · On-Premises IAM**
 
